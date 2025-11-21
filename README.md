@@ -8,13 +8,13 @@ This project is a **hands-on front-end practice** built using **Streamlit**, des
 ## 🖥️ Screenshots
 
 ### 🧾 User Information Form
-![Form Page](form_page.png)
+![Form Page](/images/Streamlit_P1.PNG)
 
 ### 📊 CSV Uploader with Search & Pagination
-![CSV Uploader Page](csv_uploader_page.png)
+![CSV Uploader Page](/images/Streamlit_P2.PNG)
 
 ### 🖼️ Image Gallery
-![Image Gallery Page](image_gallery_page.png)
+![Image Gallery Page](/images/Streamlit_P3.PNG)
 
 ---
 
